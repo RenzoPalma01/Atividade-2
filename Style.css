@@ -1,0 +1,11 @@
+body{
+   background-color: crimson;
+   background-image: url(papel-de-parede-super-mario-6m-quarto-de-menina.webp);
+   background-position: center;
+   background-size: cover;
+}
+a{
+    font-size: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
